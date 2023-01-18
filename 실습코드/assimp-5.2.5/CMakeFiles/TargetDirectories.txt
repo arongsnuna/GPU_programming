@@ -1,9 +1,0 @@
-/Users/unhi/Downloads/assimp-5.2.5/CMakeFiles/uninstall.dir
-/Users/unhi/Downloads/assimp-5.2.5/CMakeFiles/install.dir
-/Users/unhi/Downloads/assimp-5.2.5/CMakeFiles/ALL_BUILD.dir
-/Users/unhi/Downloads/assimp-5.2.5/CMakeFiles/ZERO_CHECK.dir
-/Users/unhi/Downloads/assimp-5.2.5/code/CMakeFiles/assimp.dir
-/Users/unhi/Downloads/assimp-5.2.5/code/CMakeFiles/install.dir
-/Users/unhi/Downloads/assimp-5.2.5/test/CMakeFiles/unit.dir
-/Users/unhi/Downloads/assimp-5.2.5/test/CMakeFiles/install.dir
-/Users/unhi/Downloads/assimp-5.2.5/test/headercheck/CMakeFiles/install.dir
